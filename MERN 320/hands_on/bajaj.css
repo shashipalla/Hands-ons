@@ -1,0 +1,310 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #e2e2e2;
+}
+header{
+    border: 0.5px solid gray;
+    height: 60px;
+    background-color: rgb(12, 55, 90);
+    padding-left: 0%;
+    margin-left: 0px;
+}
+
+.part1{
+    display: flex;
+   text-align: center;
+    padding-left: 30px;
+    color: white;
+    align-items: center;
+    text-align:end
+}
+
+.icon{
+    align-items: center;
+    padding: left 40px;
+    margin-top:0.05px;
+    margin: 10px;
+}
+
+/* .logo{
+    width: 20px;
+    height: 20px;
+    align-items: center;
+    padding: left 40px;
+    margin-top:0.05px;
+    margin: 10px;
+} */
+
+.ht{
+    padding-left: 10px;
+    font-size: 18px;
+    align-items: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+/*-------------------------------------------part 2--------------------------------------------------------------------*/
+
+.part2{
+    margin-left: 50px;
+    margin-right: 310px;
+    
+}
+
+.flex2{
+
+    display: flex;
+    border: 0.5px solid white;
+    margin-top: 20px;
+    border-radius: 7px;
+    height: 65px;
+    background-color: white;
+   
+}
+
+.icon2{
+    
+    margin-top:5px;
+    margin-left: 20px;
+    color: rgb(12, 55, 90);
+
+}
+
+.ht2{
+    font-size: 16px;
+    color: rgb(2, 15, 26);
+    margin-top: 9px;
+    margin-left: 10px;
+}
+.p1{
+    font-size:11px;
+    margin-top: 30px;
+    margin-left: -157px;
+    color: #314e66;
+
+}
+/*-----------------------------------------------------------part3------------------------------------*/
+
+.part3{
+    display: flex;
+    margin-left: 50px;
+    
+}
+
+.card1{
+   
+    border: 0.5px solid white;
+    margin-top: 15px;
+    border-radius: 7px;
+    height: 370px;
+    width: 500px;
+    background-color: white;
+    justify-content: center;
+    text-align: center;
+
+}
+.ht3{
+    margin-top: 30px;
+    color: #314e66;
+   
+}
+
+.RS{
+    margin-top: 10px;
+    color: #314e66;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.icon3{
+    margin-top: 40px;
+    
+
+}
+
+.card2{
+    
+    border: 0.5px solid white;
+    margin-top: 15px;
+    border-radius: 7px;
+    height: 370px;
+    width: 490px;
+    background-color:white;
+    margin-left: 10px;
+
+}
+.marginforcard2{
+    margin-left: 30px;
+}
+
+.ht4{
+    margin-top: 10px;
+    font-size: 20px;
+    
+}
+
+.ht5{
+    font-size: 14px;
+    margin-top: 5px;
+    margin-left: 5px;
+    color: #535455;
+}
+
+.no91{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+hr{
+    width: 450px;
+    margin-right:150px;
+}
+
+.ht6{
+    font-size: 14px;
+     margin-top: 0%;
+     margin-left: 5px;
+    color: red;
+}
+
+.ht7{
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left: 5px;
+}
+.ht9{
+    margin-top: 5px;
+    font-size: 14px;
+    margin-left: 5px;
+}
+
+.htt{
+    margin-top: 20px;
+    
+    margin-left: -30px; 
+    border: 0px #9ba2a8 ;
+    background-color: #9ba2a8;
+    height: 30px;
+    margin-right: 0px;
+}
+
+.ht10{
+  
+    font-size: 15px;
+    margin-left: 32px;
+    margin-top: 10px;
+    align-items: center;
+    
+}
+
+
+.flex{
+    display: flex;
+    margin-top: 30px;
+    align-items: center;
+}
+
+.ht11{
+    font-size: 30px;
+    color: #314e66;
+}
+
+p{
+    margin-top: 0px;
+    font-size: 14px;
+}
+
+.btn{
+    margin-left: 100px;
+    width: 250px;
+    height: 40px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 30px;
+    background-color: orangered;
+    color: white;
+    border: 0px solid white;
+}
+
+.part4{
+        border: 0.5px solid white;
+        margin-top: 15px;
+        margin-left: 50px;
+        border-radius: 7px;
+        height: 200px;
+        width: 1000px;
+        background-color: white;
+}
+
+.ht12{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.cards{
+    display: flex;
+    gap: 10px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 15px;
+    
+
+}
+
+.c1{
+    border: 1px solid white;
+    background-color: red;
+    width: 150px;
+
+
+}
+
+.c2{
+    border: 1px solid white;
+    background-color: red;
+    width: 150px;
+}
+
+.c3{
+    border: 1px solid white;
+    background-color: red;
+    width: 150px;
+}
+
+.c4{
+    border: 1px solid white;
+    background-color: red;
+    width: 150px;
+}
+
+.c5{
+    border: 1px solid white;
+    background-color: red;
+    width: 150px;
+
+}
+
+.c6{
+    border: 1px solid white;
+    background-color: red;
+    width: 150px;
+}
+
+h2{
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+
+
+h4{
+    font-size: 10px;
+
+    margin-left: 20px ;
+}
+
+
+
+

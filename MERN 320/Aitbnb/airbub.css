@@ -1,0 +1,376 @@
+
+.airbub-img{
+    width: 120px;
+}
+
+.searchbar{
+    display: flex;
+}
+
+.Airbub-btn-glob-list{
+    display: flex;
+}
+
+.Airbub-btn-glob{
+    display: flex;
+}
+
+.list-profile{
+    display: flex;
+}
+
+header{
+    display: flex;
+    margin-top: auto;
+    margin-left: 125px;
+    align-items: center;
+    gap: 300px;
+}
+
+.searchbar{
+    border: 1px solid lightgray;
+    background-color: white;
+    align-items: center;
+    width: 280px;
+    height: 40px;
+    border-radius: 40px;
+    justify-content: center;
+ 
+}
+
+.search-btn{
+    background-color: white;
+    border: none;
+    font-size: 15px;
+    margin-left: 5px;
+    width: 100%;
+    color: rgb(153, 144, 144);
+}
+
+
+.search-icon{
+   margin-left: 110px;
+    border: 1px solid;
+    border-radius: 50px;
+    padding: 5px;
+    background-color:rgb(226, 31, 63);
+    border: none;
+    color: white;
+    justify-content: center;
+}
+.Airbub-btn-glob-list{
+    align-items: center;
+    gap: 16px;
+    justify-content: end;
+}
+.Airbub-btn-glob{
+    align-items: center;
+    gap: 20px;
+}
+
+.Airbub-btn{
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+    width:100%;
+    height: 40px;
+    border: none;
+    text-align: center;
+    
+}
+
+.list-profile{
+    border: 1px solid lightgray;
+    border-radius: 30px;
+    width: 60px;
+    height: 30px;
+    gap: 5px;
+    text-align: center;
+    text-align: center;
+    justify-content: center;
+   
+
+}
+
+.list-icon{
+    padding: auto;
+    margin-top: 5px;
+    margin-top: 5px;
+}
+
+.profile-icon{
+    padding: auto;
+    margin-top: 5px;
+    margin-top: 5px;
+    gap: 20px;
+}
+/*-------------------------------------------part2-------------------------------------*/
+.body-part1{
+    margin-left: 125px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.part2{
+    display: flex;
+    margin-top: 10px;
+    gap: 570px;
+    
+}
+
+.share{
+    display: flex;
+    gap: 5px;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.like{
+    display: flex;
+    gap: 5px;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.part1{
+    font-size: 30px;
+
+}
+
+.postion1{
+    display: flex;
+    gap: 10px;
+
+}
+
+.postion2{
+    display: flex;
+    gap: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*-----------------------------------------imag--------------------------------------------*/
+
+.main-img{
+    width: 620px;
+    height: 345px;
+}
+
+
+
+.top-left{
+    width: 302px;
+    height: 170px;
+}
+
+.top-right{
+    width: 302px;
+    height: 170px;
+}
+
+.bottom-left{
+    width: 302px;
+    height: 170px;
+}
+
+.bottom-right{
+    width: 302px;
+    height: 170px;
+}
+
+.part-img{
+    display: flex;
+    gap: 10px;
+    margin-left: 125px;
+}
+
+/*---------------------------------content----------------------------*/
+
+.list{
+    display: flex;
+    margin-left: 125px;
+    text-align: center;
+    align-items: center;
+    margin-top: 1px;
+    font-size: 20px;
+}
+
+h1{
+    margin-left: 125px;
+    margin-bottom: 0px;
+}
+
+.ui{
+    display: flex;
+    gap: 20px;
+    width: 625px; ;
+}
+
+
+   .bl2{
+    margin-left: 125px;
+    margin-right: 750px;
+    margin-top: 40px;
+   }
+
+.remort-work{
+    margin-left: 125px;
+    margin-top: 30px;
+    width: 625px; ;
+}
+
+h3{
+    font-size: 25px;
+}
+
+.p1{
+    margin-top: 10px;
+    color: rgb(187, 172, 172);
+}
+
+.airbub-color{
+    display: flex;
+    gap: 0px;
+    font-size: 50px;
+    margin-top: 30px;
+   
+}
+
+.air{
+    color: rgb(230, 83, 83);
+
+}
+
+.aircover{
+    margin-left: 125px;
+    width: 625px; ;
+}
+
+.learn-more{
+    font-size: 25px;
+}
+
+.cnt{
+    margin-left: 125px;
+    width: 625px; ;
+    margin-top: 30px;
+}
+
+.Show-more{
+    margin-left: 125px;
+    font-size: 25px;
+    margin-top: 10px;
+
+}
+
+/*--------------------------------Where-you-sleep---------------*/
+
+.Where-you-sleep{
+         margin-left: 125px;
+         width: 625px; ;
+
+}
+
+.Where{
+    font-size: 30px;
+    margin-top: 30px;
+
+}
+
+.bed-icon{
+    background-color: white;
+    width: 35px;
+}
+
+.bedrooms{
+    display: flex;
+    gap: 15px;
+    text-align: center;
+    margin-top: 20px;
+}
+.bedroom1{
+    border: 1px solid lightgray;
+    width: 190px;
+    border-radius: 20px;
+   
+}
+
+.bed-icon{
+    margin-top: 30px;
+}
+
+.What-this-place-offers{
+    margin-left: 125px;
+         width: 625px; ;
+}
+
+.What{
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 125px;
+}
+.ac-icon{
+    margin-top: 20px;
+    width: 30px;
+    text-align: center;
+}
+.a1{
+    width: 310px;
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    color: gray;
+}
+
+.What-this-place-offers{
+    display: flex;
+}
+
+.Show-all{
+    margin-left: 125px;
+    margin-top: 30px;
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+.reviews{
+    margin-left: 125px;
+    margin-top: 30px;
+}
+
+.rating{
+    display: flex;
+    font-size: 25px;
+    gap: 20px;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.star-rating{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.rangedisplay{
+    display: flex;
+    gap: 100px;
+}
+
+.one{
+    display: flex;
+    gap: 200px;
+}
